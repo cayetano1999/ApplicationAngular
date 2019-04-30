@@ -1,0 +1,9 @@
+Notas del capitulo.
+
+Tipo de datos. 
+
+Typescript es un lenguaje fuertemente tipado a diferencia de JS, permite asignarle un tipo de dato a las variables
+y al momento de asignarle un valor diferente al tipo de dato de la variable, el editor de codigo puede 
+marcar el error, a diferencia de JS que para mostrar el error hay que compilar. 
+
+Los tipos de datos son los comunes de siempre
