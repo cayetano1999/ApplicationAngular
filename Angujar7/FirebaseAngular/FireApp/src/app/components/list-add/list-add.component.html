@@ -1,0 +1,15 @@
+<form (ngSubmit)="agregar()">
+  <div class="input-group">
+    
+    <input 
+    type="text"
+     name="name" 
+     id="name" 
+     class="form-control" 
+     [(ngModel)]="item.name"
+     placeholder="Ingresa el Nombre" 
+     aria-describedby="prefixId">
+
+    <button class="btn btn-success btn-block mt-3" type="submit">Agregar</button>
+  </div>
+</form>
